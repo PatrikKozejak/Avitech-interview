@@ -1,0 +1,10 @@
+.env
+
+__pycache__/
+*.py[cod]
+
+playwright/.cache
+
+*.log
+
+.pytest_cache/
